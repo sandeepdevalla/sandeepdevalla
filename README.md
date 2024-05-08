@@ -1,16 +1,31 @@
+# Passionate Web Developer
 ### Hi there 👋
+I am passionate web developer having experience in bellow technologies
+---
+  ★★★★★ HTML
+  
+  ★★★★★ CSS
+  
+  ★★★★★ JavaScript
+  
+  ★★★★★ React JS
+  
+  ★★★★☆ TypeScript
+  
+  ★★★★☆ Angular JS and Angular 
+  
+  ★★★☆☆ Storybook Tool
+  
+  ★★★★☆ Redux
+  
+  ★★★☆☆ Webpack
+  
+  ★★★★☆ Bootstrap and Material UI
+  
+  ★★★☆☆ Node JS
+  
+  ★★★☆☆ Java
+  
+  ★★☆☆☆ Docker
 
-<!--
-**sandeepdevalla/sandeepdevalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
